@@ -48,3 +48,5 @@ WHERE category="Kitchen Supplies"
 SELECT average_rating, item_name
 FROM superstore
 GROUP BY item_name;
+
+--
